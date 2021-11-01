@@ -19,6 +19,11 @@ San Francisco, CA
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Lenovo is Simplifying AI Development](https://jedrecord.com/blog/how-lenovo-is-simplifying-ai-development/)
+- [Love On!](https://jedrecord.com/blog/love-on/)
+- [Mutual Leadership](https://jedrecord.com/blog/mutual-leadership/)
+- [Incorporating Your Business: Are you locked in, or can a business entity be changed?](https://jedrecord.com/blog/incorporating-your-business-are-you-locked-in-or-can-a-business-entity-be-changed/)
+- [Product Review – FlexiSpot Deskcise Pro](https://jedrecord.com/blog/product-review-flexispot-deskcise-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jedrecord.com)
