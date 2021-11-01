@@ -1,15 +1,17 @@
-### Hello world, I'm Jed Record 👋
+### Hello world, I'm Jed Record.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JedRecord?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJedRecord&screen_name=JedRecord)
+I'm the Sr. Partner Engineer for [Domino Data Lab](https://www.dominodatalab.com/) in San Francisco, California.
 
-Sr. Partner Engineer<br>
-[Domino Data Lab](https://www.dominodatalab.com/)<br>
-San Francisco, CA<br>
+I work in the Eastern time zone, from my home in [Chapel Hill, NC](https://goo.gl/maps/at658nFdV7fsjy2f8).
+
+My job is to make complex software products easier to use, deploy, maintain, and integrate with. I develop server-side applications on-premise and in the cloud. I am a cloud native architect, engineer, and developer. My primary tools are the Bash shell, Go, Python, Dockerfiles, Kubernets API & Objects, Perl, PHP, and a variety of GNU software.
+
+Join me on Twitter:
+[![Twitter Follow](https://img.shields.io/twitter/follow/JedRecord?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?screen_name=jedrecord)
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedrecord&layout=compact)](https://github.com/jedrecord/github-readme-stats)
-
 
 <br />
 
