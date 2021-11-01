@@ -4,10 +4,26 @@ I'm the Sr. Partner Engineer for [Domino Data Lab](https://www.dominodatalab.com
 
 I work in the Eastern time zone, from my home in [Chapel Hill, NC](https://goo.gl/maps/at658nFdV7fsjy2f8).
 
-My job is to make complex software products easier to use, deploy, maintain, and integrate with. I develop server-side applications on-premise and in the cloud. I am a cloud native architect, engineer, and developer. My primary tools are the Bash shell, Go, Python, Dockerfiles, Kubernets API & Objects, Perl, PHP, and a variety of GNU software.
+My job is to expand the addressable market and increase the value derived from enterprise applications by identifying and engineering integration opportunities with partners.
+
+I have a varied background in business, innovation and software development.
+* I am value innovation practitioner and trainer
+* I develop server-side applications on-premise and in the cloud
+* I am a cloud native architect, engineer, and developer
+* My primary tools are the Bash shell, Go, Python, Dockerfiles, Kubernets API & Objects, Perl, PHP, and a variety of GNU software
+
+<br />
 
 Join me on Twitter:
 [![Twitter Follow](https://img.shields.io/twitter/follow/JedRecord?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?screen_name=jedrecord)
+
+<br />
+
+Social channels
+* Website: [https://jedrecord.com/](https://jedrecord.com/)
+* Twitter: [https://twitter.com/jedrecord](https://twitter.com/jedrecord)
+* Instagram: [https://instagram.com/jedrecord](https://instagram.com/jedrecord)
+* Linkedin: [https://linkedin.com/in/jedrecord](https://linkedin.com/in/jedrecord)
 
 <br />
 
@@ -46,7 +62,3 @@ Join me on Twitter:
 
 </details>
 
-[website]: https://jedrecord.com
-[twitter]: https://twitter.com/jedrecord
-[instagram]: https://instagram.com/jedrecord
-[linkedin]: https://linkedin.com/in/jedrecord
