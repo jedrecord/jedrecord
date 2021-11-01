@@ -1,11 +1,10 @@
 ### Hello world, I'm Jed Record 👋
 
-[![Website](https://img.shields.io/website?label=www.dominodatalab.com&style=for-the-badge&url=https%3A%2F%2Fwww.dominodatalab.com)](https://www.dominodatalab.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JedRecord?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJedRecord&screen_name=JedRecord)
 
-Sr. Partner Engineer
-Domino Data Lab
-San Francisco, CA
+Sr. Partner Engineer<br>
+[Domino Data Lab](https://www.dominodatalab.com/)<br>
+San Francisco, CA<br>
 
 <br />
 
@@ -41,7 +40,7 @@ San Francisco, CA
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="JedRecord's GitHub Stats" src="https://github-readme-stats.jedrecord.vercel.app/api?username=jedrecord&show_icons=true&hide_border=true" />
+  <img align="left" alt="JedRecord's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jedrecord&show_icons=true&hide_border=true" />
 
 </details>
 
